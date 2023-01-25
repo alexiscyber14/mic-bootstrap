@@ -27,3 +27,10 @@
   background-color: #ff6b00;
   color: #fff;
 }
+.line{
+  height: 3px;
+  width:100%;
+  background-color: white;
+  border-radius: 3px;
+  
+}
